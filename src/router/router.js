@@ -1,6 +1,6 @@
 import Vue from "vue";
 import Router from "vue-router";
-import {user , offer , report} from "./routes"
+import {user , offer , report} from "./menu"
 
 Vue.use(Router);
 
